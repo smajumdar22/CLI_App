@@ -1,0 +1,32 @@
+{
+  "name": "CLIApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smajumdar22/CLIApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smajumdar22/CLIApp/issues"
+  },
+  "homepage": "https://github.com/smajumdar22/CLIApp#readme",
+  "dependencies": {
+    "csv-file-validator": "^1.10.1",
+    "csv-parser": "^3.0.0",
+    "csv-validator": "0.0.3",
+    "minimist": "^1.2.5",
+    "neat-csv": "^6.0.1",
+    "papaparse": "^5.3.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

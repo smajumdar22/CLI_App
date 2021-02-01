@@ -28,5 +28,5 @@
 
 #### UML
 ![UML Diagram](whiteboard.jpg)
-![Output Diagram](output.png)
+![Output Diagram](output.jpg)
 ![Test Coverage](testCoverage.png)

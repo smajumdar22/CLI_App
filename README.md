@@ -5,7 +5,7 @@
 ### Author: Shubham Majumdar
 
 ### Links and Resources
-* [submission PR]()
+* [submission PR](https://github.com/smajumdar22/CLI_App/pull/1)
 
 
 #### Documentation

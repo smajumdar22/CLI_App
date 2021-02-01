@@ -14,6 +14,7 @@
 
 ### Setup
 #### `.env` requirements (where applicable)
+* Install node.js https://nodejs.org/en/download/
 * git clone https://github.com/smajumdar22/CLI_App.git
 * cd CLI_APP
 * npm install
